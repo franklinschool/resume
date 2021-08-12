@@ -18,7 +18,7 @@ Having a few years under my belt, I went full-time with my business. It was HARD
 
 I am self-taught and always eager to learn new things.  I am an extrovert by nature and enjoy troubleshooting complex problems with many people to find innovative solutions. 
 
-** I’ve been quoted as saying: **
-< “Don’t ask me to do something if you don’t expect it to get done.”
+I’ve been quoted as saying:*
+> “Don’t ask me to do something if you don’t expect it to get done.”
 
 [^1]: Using Microsoft Frontpage
